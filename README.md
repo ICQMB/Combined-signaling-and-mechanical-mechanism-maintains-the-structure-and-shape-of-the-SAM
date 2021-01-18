@@ -154,4 +154,3 @@ Example output: AUTO_BATACH.sh containing...
  mkdir Locations_test_1
  mkdir Animate_No_Cyt_TEST_NAME_4
  ./program Animate_Cyt_TEST_NAME_4 Locations_test_TEST_NAME_4 Nematic_test_TEST_NAME_4 Animate_No_Cyt_TEST_NAME_4 -WR 0.7 -CK 1 -div 2 -TC 4
-# Combined-signaling-and-mechanical-mechanism-maintains-the-structure-and-shape-of-the-SAM
