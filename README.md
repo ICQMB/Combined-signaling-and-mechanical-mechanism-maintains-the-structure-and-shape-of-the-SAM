@@ -1,6 +1,6 @@
 # ScePlantCells
 
-Mikahl Banwarth-Kuhn & Christian Michael
+### Mikahl Banwarth-Kuhn & Christian Michael
 
 This repository contains C++ code for modeling plant cells using the subcellular element model.
 
