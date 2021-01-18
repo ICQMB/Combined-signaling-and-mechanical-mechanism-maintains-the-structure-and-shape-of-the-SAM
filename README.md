@@ -6,7 +6,7 @@ for bulk job submission on UCR's HPCC.
 
 ====================================================
 
-##main.cpp / makefile / program.out   
+## main.cpp / makefile / program.out   
 
 ====================================================
 
@@ -55,7 +55,7 @@ and run it with
 
 ====================================================
 
-##CSV_interpreter.(cpp/out)
+## CSV_interpreter.(cpp/out)
 
 ====================================================
 Compile with:  g++ CSV_interpreter.cpp -o CSV_interpreter.out
@@ -111,7 +111,7 @@ Submitted batch job 539278
 
 ====================================================
 
-##batchmaker.cpp / batchGenerator.out
+## batchmaker.cpp / batchGenerator.out
 
 ====================================================
 
