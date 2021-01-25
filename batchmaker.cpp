@@ -27,7 +27,9 @@ int main(int argc, char* argv[]) {
 	char WUS_CF[100]= "";
 	char CK_CF[100] = "";
 	char WUS_LEVEL[100] = "";
-	string bigdata_path = "/bigdata/wchenlab/shared/2Mech_Tests/";
+	// Include path to storage directory here. Activate with -bigdata batch flag. 
+	// Otherwise, output is stored in new folders created in the present working directory. 
+	string bigdata_path = ""; 
 	string final_path;
 	int divDataCutoff;
 	bool bigdata = false;
